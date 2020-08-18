@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="yes24crawling">
+    <serverData>
+      <paths name="yes24crawling">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ec2-user/yes24crawling" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
