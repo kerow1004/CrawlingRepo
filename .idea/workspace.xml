@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6ac61b6c-68b6-4582-ad7c-d1997c17436c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/qnaCrawling/Seleniumtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/qnaCrawling/Seleniumtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qnaCrawling/ebsCrawling.py" beforeDir="false" afterPath="$PROJECT_DIR$/qnaCrawling/ebsCrawling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/qnaCrawling/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/qnaCrawling/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="6ac61b6c-68b6-4582-ad7c-d1997c17436c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -136,7 +132,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597738296603</updated>
-      <workItem from="1597738301955" duration="35526000" />
+      <workItem from="1597738301955" duration="35786000" />
     </task>
     <task id="LOCAL-00001" summary="환경변화">
       <created>1597739923679</created>
@@ -159,7 +155,14 @@
       <option name="project" value="LOCAL" />
       <updated>1597810722199</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="csv 저장 코드 추가">
+      <created>1598261216234</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1598261216237</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,7 +182,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="환경변화" />
     <MESSAGE value="코드 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="코드 수정" />
+    <MESSAGE value="csv 저장 코드 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="csv 저장 코드 추가" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/CrawlingRepo$Seleniumtest.coverage" NAME="Seleniumtest Coverage Results" MODIFIED="1598257905640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/qnaCrawling" />
