@@ -20,9 +20,9 @@ def pageCrawling(teacherNo):
 
         page = 1
 
-        with open('./ebsCrawlingData.csv', 'w', encoding='utf-8', newline='') as writer_csv:
+        with open('./ebsCrawlingData.csv', 'a', encoding='utf-8', newline='') as writer_csv:
             writer = csv.writer(writer_csv, delimiter=',')
-            writer.writerow(["teacher", "Question", "Answer"])
+            # writer.writerow(["teacher", "Question", "Answer"])
 
             while 1:
                 url = returnUrl + "/" + str(page) + "/0/0/0"
