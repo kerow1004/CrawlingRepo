@@ -8,7 +8,7 @@ ebsUrl = "https://mid.ebs.co.kr/teacher/middle/index?searchSiteCode=all&subjectC
 
 # Q&A페이지 이동
 def pageCrawling(teacherNo):
-    ff_driver = webdriver.Chrome('../driver/ver84/chromedriver')
+    ff_driver = webdriver.Chrome('../driver/ver85/chromedriver')
     ff_driver.implicitly_wait(3)
     ff_driver.get(ebsUrl)
 
@@ -26,6 +26,8 @@ def pageCrawling(teacherNo):
 
             while 1:
                 url = returnUrl + "/" + str(page) + "/0/0/0"
+
+
 
                 ff_driver.get(url)
 
